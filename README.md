@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Docker and CI/CD pipelines<br>🎯 Goals: become a senior developer and create amazing experiences<br>🎲 Fun fact: I probably learned more debugging than sleeping</p>
+<p align="left">📚 I'm currently learning Docker and CI/CD pipelines<br>🎲 Fun fact: I probably learned more debugging than sleeping</p>
 
 ###
 
